@@ -1,16 +1,31 @@
-# gif_seacher
 
-A gif seacher that consumes Giphy API
+<h1 align="center">
+    <img alt="Projeto Trilhas" src="https://developers.giphy.com/branch/master/static/header-logo-0fec0225d189bc0eae27dac3e3770582.gif" width="400px" />
+</h1>
 
-## Getting Started
+<h3 align="center">
+  GIF SEARCHER!
+</h3>
 
-This project is a starting point for a Flutter application.
+<p align="center">
 
-A few resources to get you started if this is your first Flutter project:
+  <a href="">
+    <img alt="Made by Emanunel" src="https://img.shields.io/badge/made%20by-Emanunel-%2FBB86">
+  </a>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## :calendar: Sobre
+
+Esse projeto foi desenvolvido pelos alunos do 3 AII do curso técnico em Informática para a Internet do [Instituto Federal de Educação, Ciência e Tecnologia  Baiano](https://ifbaiano.edu.br) para o Projeto de Conclusão de Curso
+
+
+## :computer: Como executar o projeto
+Você deve informar em um arquivo '.env' na pasta raiz do projeto a seguinte variável de ambiente:
+</br>
+API_KEY=[SUA CHAVE DE APLICATIVO NO GIPHY DEVELOPERS]
+</br>
+https://developers.giphy.com
+
+Feito com :heart: por  Emanuel<br>
